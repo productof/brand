@@ -47,7 +47,7 @@ On Mar 4, 2017 Product of SYD held a **User Centered Branding** workshop with 20
 • **Knowledgable** _but not Arrogant_  
 
 ### Brand Persona
-> **Name:** Sir Patric Stewart  
+> **Name:** Sir Patrick Stewart  
 **Traits:** Sense of humour, Advocate (he cares), Calming demeanour, Humble, Passionate, Down to earth, Wise, Surprising.
 
 The complete output from the User Centered Branding workshop can be found here
