@@ -21,12 +21,12 @@ Product Of is a Digital Product focused community with regular meetup events hel
 **Regular Sponsors:** ustwo Sydney
 
 ### Product of SFO
-**Founded:** MMM DD, CCYY  
+**Founded:** Aug 31, 2017  
 **Founding Member:** Phill Farrugia  
-**Local Leadership Team:** Phill Farrugia, ...
-**Fortnightly Meetup day:** ...  
-**Member Count:** ...+  
-**Regular Sponsors:** ...  
+**Local Leadership Team:** Phill Farrugia
+**Fortnightly Meetup day:** Every 2nd Thursday Morning
+**Member Count:** 79 
+**Regular Sponsors:** N/A
 
 ### Product of PER
 **Founded:** Jan 11, 2018  
