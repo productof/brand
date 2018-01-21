@@ -18,7 +18,23 @@ Product Of is a Digital Product focused community with regular meetup events hel
 **Local Leadership Team:** Tim Cruickshank, Jessica Tong, Jay Gray & Markolf Zimmer  
 **Fortnightly Meetup day:** Every 2nd Thursday Morning/Wednesday night  
 **Member Count:** 540+  
-**Regular Sponsors:** ustwo Sydney  
+**Regular Sponsors:** ustwo Sydney
+
+### Product of SFO
+**Founded:** Aug 31, 2017  
+**Founding Member:** Phill Farrugia  
+**Local Leadership Team:** Phill Farrugia
+**Fortnightly Meetup day:** Every 2nd Thursday Morning
+**Member Count:** 79 
+**Regular Sponsors:** N/A
+
+### Product of PER
+**Founded:** Jan 11, 2018  
+**Founding Member:** Patima Tantiprasut  
+**Local Leadership Team:** Patima Tantiprasut, ...  
+**Fortnightly Meetup day:** ...  
+**Member Count:** ...+  
+**Regular Sponsors:** ...  
 
 ## What is an 'Open Source Brand'?
 As Product Of is an open and transparent community, with the intention of being community run and operated, as such the brand needs to reflect this mentality. By working with the community to establish the Brand Foundation, and then allowing the community to use, change and contribute to every aspect of the brand though a version controlled environment the brand should reflect the ideals and motivations of the community at large, while also providing easy to use assets and resources for members to access when needed.
