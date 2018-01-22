@@ -23,10 +23,10 @@ Product Of is a Digital Product focused community with regular meetup events hel
 ### Product of SFO
 **Founded:** Aug 31, 2017  
 **Founding Member:** Phill Farrugia  
-**Local Leadership Team:** Phill Farrugia
-**Fortnightly Meetup day:** Every 2nd Thursday Morning
+**Local Leadership Team:** Phill Farrugia  
+**Fortnightly Meetup day:** Every 2nd Thursday Morning  
 **Member Count:** 79 
-**Regular Sponsors:** N/A
+**Regular Sponsors:** N/A 
 
 ### Product of PER
 **Founded:** Jan 11, 2018  
