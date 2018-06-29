@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 281.158 329.383">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #0094cd;
+        font-family: Montserrat-Bold, Montserrat;
+        font-weight: 700;
+        letter-spacing: 0.07em;
+      }
+
+      .cls-2, .cls-3, .cls-5 {
+        stroke: #0094cd;
+      }
+
+      .cls-2, .cls-5 {
+        stroke-width: 4px;
+      }
+
+      .cls-2 {
+        font-size: 113px;
+      }
+
+      .cls-3 {
+        stroke-width: 2px;
+        font-size: 30px;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path-2);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Path_1" data-name="Path 1" class="cls-1" d="M82.729,21.017l134.713,3.743,52.6,72.088-36.2,21.736L66.508,113.012l-34.3-22.929Z" transform="matrix(0.985, -0.174, 0.174, 0.985, 215.71, -37.753)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_2" data-name="Path 2" class="cls-1" d="M82.729,21.017l134.713,3.743,52.6,72.088-36.2,21.736L66.508,113.012l-34.3-22.929Z" transform="matrix(-0.985, 0.174, -0.174, -0.985, 567.61, 239.24)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_4" data-name="Group 4" transform="translate(-251.081 63.948)">
+    <text id="ALL" class="cls-2" transform="matrix(0.985, -0.174, 0.174, 0.985, 399.502, 139.252)"><tspan x="-114.187" y="0">ALL</tspan></text>
+    <text id="P" class="cls-3" transform="translate(302.661 44.544) rotate(-61)"><tspan x="-10.155" y="0">P</tspan></text>
+    <text id="R" class="cls-3" transform="translate(313.751 29.918) rotate(-52)"><tspan x="-10.905" y="0">R</tspan></text>
+    <text id="O" class="cls-3" transform="matrix(0.788, -0.616, 0.616, 0.788, 329.941, 15.728)"><tspan x="-12.39" y="0">O</tspan></text>
+    <text id="D" class="cls-3" transform="matrix(0.921, -0.391, 0.391, 0.921, 350.58, 4.119)"><tspan x="-11.535" y="0">D</tspan></text>
+    <text id="U" class="cls-3" transform="matrix(0.974, -0.225, 0.225, 0.974, 370.839, -1.315)"><tspan x="-11.265" y="0">U</tspan></text>
+    <text id="C" class="cls-3" transform="translate(391.477 -3.55)"><tspan x="-10.98" y="0">C</tspan></text>
+    <text id="T" class="cls-3" transform="translate(411.115 -1.315) rotate(13)"><tspan x="-9.12" y="0">T</tspan></text>
+    <text id="F" class="cls-3" transform="translate(462.674 24.48) rotate(48)"><tspan x="-9.18" y="0">F</tspan></text>
+    <text id="O-2" data-name="O" class="cls-3" transform="translate(445.305 11.949) rotate(36)"><tspan x="-12.39" y="0">O</tspan></text>
+    <text id="U-2" data-name="U" class="cls-3" transform="matrix(0.946, 0.326, -0.326, 0.946, 356.059, 222.382)"><tspan x="-11.265" y="0">U</tspan></text>
+    <text id="S" class="cls-3" transform="matrix(1, 0.017, -0.017, 1, 384.294, 226.952)"><tspan x="-9.57" y="0">S</tspan></text>
+    <text id="A" class="cls-3" transform="translate(425.547 221.991) rotate(-17)"><tspan x="-11.175" y="0">A</tspan></text>
+    <text id="L" class="cls-3" transform="matrix(0.891, -0.454, 0.454, 0.891, 448.244, 212.81)"><tspan x="-8.52" y="0">L</tspan></text>
+    <text id="L-2" data-name="L" class="cls-3" transform="translate(467.649 200.949) rotate(-36)"><tspan x="-8.52" y="0">L</tspan></text>
+    <g id="Mask_Group_1" data-name="Mask Group 1" class="cls-4">
+      <g id="Group_2" data-name="Group 2">
+        <circle id="Ellipse_1" data-name="Ellipse 1" class="cls-5" cx="97.5" cy="97.5" r="97.5" transform="translate(293 4)"/>
+        <circle id="Ellipse_2" data-name="Ellipse 2" class="cls-5" cx="132.5" cy="132.5" r="132.5" transform="translate(258 -32)"/>
+      </g>
+    </g>
+    <g id="Mask_Group_2" data-name="Mask Group 2" class="cls-6">
+      <g id="Group_3" data-name="Group 3">
+        <circle id="Ellipse_1-2" data-name="Ellipse 1" class="cls-5" cx="97.5" cy="97.5" r="97.5" transform="translate(293 4)"/>
+        <circle id="Ellipse_2-2" data-name="Ellipse 2" class="cls-5" cx="132.5" cy="132.5" r="132.5" transform="translate(258 -32)"/>
+      </g>
+    </g>
+  </g>
+</svg>
